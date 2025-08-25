@@ -63,7 +63,7 @@ function loadProductsFromStorage() {
                 originalPrice: 650,
                 rating: 4.8,
                 reviews: 156,
-                image: "Image/5f56dc8d-57c5-4cac-afab-298c238444a1.jpeg",
+                image: "5f56dc8d-57c5-4cac-afab-298c238444a1.jpeg",
                 badge: "Noise Cancel",
                 description: "سماعات أذن مريحة مصنوعة من مواد عالية الجودة جودة صوت فائقة الوضوح علبة شحن لاسلكية بمنفذ USB-C"
             },
@@ -75,7 +75,7 @@ function loadProductsFromStorage() {
                 originalPrice: 550,
                 rating: 4.7,
                 reviews: 89,
-                image: "Image/b95ee7d2-0f5c-4072-9969-3eaee5ae3e08.jpeg",
+                image: "b95ee7d2-0f5c-4072-9969-3eaee5ae3e08.jpeg",
                 badge: "Noise Cancel",
                 description: "سماعات أذن مريحة مصنوعة من مواد عالية الجودة جودة صوت فائقة الوضوح علبة شحن لاسلكية بمنفذ USB-C"
             },
@@ -87,7 +87,7 @@ function loadProductsFromStorage() {
                 originalPrice: 850,
                 rating: 4.6,
                 reviews: 67,
-                image: "Image/001747a6-92c8-4e45-8a68-766f2e52b899.jpeg",
+                image: "001747a6-92c8-4e45-8a68-766f2e52b899.jpeg",
                 badge: "Premium",
                 description: "بصوت غامر الأنماط الحياة الديناميكية - اسود سريع"
             },
@@ -99,7 +99,7 @@ function loadProductsFromStorage() {
                 originalPrice: 1050,
                 rating: 4.5,
                 reviews: 123,
-                image: "Image/9864caa6-bc2c-4e24-81d0-61054c1c8ba9.jpeg",
+                image: "9864caa6-bc2c-4e24-81d0-61054c1c8ba9.jpeg",
                 badge: "Premium",
                 description: "بصوت غامر الأنماط الحياة الديناميكية - اسود سريع"
             },
@@ -111,7 +111,7 @@ function loadProductsFromStorage() {
                 originalPrice: 1100,
                 rating: 4.4,
                 reviews: 78,
-                image: "Image/f00e7c25-734e-468a-aa65-0cc92ffa79be.jpeg",
+                image: "f00e7c25-734e-468a-aa65-0cc92ffa79be.jpeg",
                 badge: "Premium",
                 description: "4 ميكروفونات بصوت جهوري قوي، سماعات أذن لاسلكية حقيقية وقت تشغيل طويل مقاومة للماء IPX5 ، عبر التطبيق، أسود"
             },
@@ -126,7 +126,7 @@ function loadProductsFromStorage() {
                 originalPrice: 14000,
                 rating: 4.6,
                 reviews: 45,
-                image: "Image/71HLZfVKPxL._UF894,1000_QL80_.jpg",
+                image: "71HLZfVKPxL._UF894,1000_QL80_.jpg",
                 badge: "Business",
                 description: "Ryzen 5 Pro 3500U, 16GB RAM DDR4, 256GB SSD, AMD Radeon 2GB Graphics"
             },
@@ -138,7 +138,7 @@ function loadProductsFromStorage() {
                 originalPrice: 14000,
                 rating: 4.7,
                 reviews: 38,
-                image: "Image/61L3O0-5-vL._AC_SL1500_.jpg",
+                image: "61L3O0-5-vL._AC_SL1500_.jpg",
                 badge: "Business",
                 description: "Ryzen 5 Pro 4650U, 16GB RAM DDR4, 256GB SSD, AMD Radeon 512MB Graphics"
             },
@@ -150,7 +150,7 @@ function loadProductsFromStorage() {
                 originalPrice: 15500,
                 rating: 4.8,
                 reviews: 52,
-                image: "Image/61LJLbpmmSL.jpg",
+                image: "61LJLbpmmSL.jpg",
                 badge: "Workstation",
                 description: "Intel i7 6th Gen, 16GB RAM DDR4, 512GB SSD (or 256GB SSD + 500GB HDD), NVIDIA 2GB Graphics"
             },
@@ -162,7 +162,7 @@ function loadProductsFromStorage() {
                 originalPrice: 18000,
                 rating: 4.9,
                 reviews: 41,
-                image: "Image/fd2abf5c-075e-469b-ac0d-c7318bfdbf0e.jpg",
+                image: "fd2abf5c-075e-469b-ac0d-c7318bfdbf0e.jpg",
                 badge: "Workstation",
                 description: "Intel i7 6th Gen, 16GB RAM DDR4, 512GB SSD (or 256GB SSD + 500GB HDD), NVIDIA 4GB Graphics"
             },
@@ -174,7 +174,7 @@ function loadProductsFromStorage() {
                 originalPrice: 9500,
                 rating: 4.4,
                 reviews: 67,
-                image: "Image/815CHS7C3ML._UF894,1000_QL80_.jpg",
+                image: "815CHS7C3ML._UF894,1000_QL80_.jpg",
                 badge: "Value",
                 description: "Intel i3 7th Gen, 16GB RAM DDR4, 128GB SSD, NVIDIA 2GB Graphics"
             },
@@ -188,7 +188,7 @@ function loadProductsFromStorage() {
                 originalPrice: 950,
                 rating: 4.9,
                 reviews: 234,
-                image: "image/0018875b-5f44-42ef-b34c-d65c9fefd0fc.jfif",
+                image: "0018875b-5f44-42ef-b34c-d65c9fefd0fc.jfif",
                 badge: "Premium",
                 description: "سماعة لاسلكية ساوندكور R50i صوت ستيريو حقيقي ومشغلات 10 ملم وصوت باس من انكر بلوتوث 5.3 مدة تشغيل 30 ساعة ذكاء اصطناعي لوضوح مكالمات مع ميكروفونين معادل مسبق الضبط 22 أسود ار 50 اي داخل الأذن"
             },
@@ -200,7 +200,7 @@ function loadProductsFromStorage() {
                 originalPrice: 400,
                 rating: 4.8,
                 reviews: 189,
-                image: "image/2025-Free-Shipping-to-India-Wireless-Headphone-BT-5.0-Earphone-TWS-Wireless-Headset-Earbuds-Free-Sample.avif",
+                image: "2025-Free-Shipping-to-India-Wireless-Headphone-BT-5.0-Earphone-TWS-Wireless-Headset-Earbuds-Free-Sample.avif",
                 badge: "Deep Bass Stereo ",
                 description: "سماعات أذن اير 31 لاسلكية سلكية شفافة مع صوت جهوري عميق ستيريو سماعة بلوتوث علبة شحن أبيض وأسود وزهري أسود"
             },
@@ -212,7 +212,7 @@ function loadProductsFromStorage() {
                 originalPrice: 600,
                 rating: 4.6,
                 reviews: 156,
-                image: "image/5.jpg",
+                image: "5.jpg",
                 badge: "Value",
                 description: "سماعة رأس بسلك بتقنية بلوتوث 1004-SD من سودو، مزودة بميكروفون مدمج للمشي وممارسة الرياضة والتحدث 3الوان فوق الأذن"
             },
@@ -224,7 +224,7 @@ function loadProductsFromStorage() {
                 originalPrice: 400,
                 rating: 4.7,
                 reviews: 98,
-                image: "image/51aA+ByzrDL._UF350,350_QL80_.jpg",
+                image: "51aA+ByzrDL._UF350,350_QL80_.jpg",
                 badge: "Value",
                 description: "سماعة بلوتوث لاسلكية P9 ، تدعم صوت ستيريو نقي وبطاقة ذاكرة (اسود)"
             },
@@ -236,7 +236,7 @@ function loadProductsFromStorage() {
                 originalPrice: 300,
                 rating: 4.8,
                 reviews: 145,
-                image: "image/51hjsXn2Z4L._UF350,350_QL80_.jpg",
+                image: "51hjsXn2Z4L._UF350,350_QL80_.jpg",
                 badge: "Value",
                 description: " سماعة رأس ستيريو بلوتوث لاسلكية 5الوان متوفره P47m بتصميم قطة وإضاءة لید ملونة RGB ، تأتي مع دعم بطاقة الذاكرة، سماعات رأس للألعاب مع ميكروفون مدمج للاب توب والموبايل والأطفال والبنات والكمبيوتر"
             },
@@ -250,7 +250,7 @@ function loadProductsFromStorage() {
                 originalPrice: 500,
                 rating: 4.9,
                 reviews: 267,
-                image: "image/51gL5uwF7iL._UF894,1000_QL80_.jpg",
+                image: "51gL5uwF7iL._UF894,1000_QL80_.jpg",
                 badge: "Value",
                 description: "سماعة رأس لاسلكية مزودة ببلوتوث V5.3 مع ميكروفون خارجي وتدعم بطاقة SD ، لون أسود، 1104-SD"
             },
@@ -262,7 +262,7 @@ function loadProductsFromStorage() {
                 originalPrice: 450,
                 rating: 4.7,
                 reviews: 134,
-                image: "image/22861bb2-cb70-4822-98c1-71a87e02469f.jfif",
+                image: "22861bb2-cb70-4822-98c1-71a87e02469f.jfif",
                 badge: "Gaming Headset",
                 description: "سماعة راس للالعاب Xbox one مع ميكروفون ستيريو للالعاب وميكروفون دوار مضاد للضوضاء واضاءة LED وشريط راس للتعليق متوافقة مع بلاي ستيشن 4 وبلاي ستيشن 5 و Xbox One ( بي بلو) سلكي، في الاذن"
             },
@@ -274,7 +274,7 @@ function loadProductsFromStorage() {
                 originalPrice: 500,
                 rating: 4.5,
                 reviews: 89,
-                image: "image/af4677f7-1534-412f-bfa5-54ae6e759079.jfif",
+                image: "af4677f7-1534-412f-bfa5-54ae6e759079.jfif",
                 badge: "Attractive",
                 description: "سماعة رأس لاسلكية 1102-SD بلوتوث 5.3 مع ميكروفون خارجي ودعم بطاقة SD،فوق الأذن"
             },
@@ -286,7 +286,7 @@ function loadProductsFromStorage() {
                 originalPrice: 500,
                 rating: 4.6,
                 reviews: 112,
-                image: "image/717YbWuza3L._UF894,1000_QL80_.jpg",
+                image: "717YbWuza3L._UF894,1000_QL80_.jpg",
                 badge: "Bass Sound",
                 description: "سماعة فوق الاذن راس بلوتوث 10035-SD وضع مزدوج"
             },
@@ -298,7 +298,7 @@ function loadProductsFromStorage() {
                 originalPrice: 1400,
                 rating: 4.8,
                 reviews: 78,
-                image: "image/ec9a4ad9-5874-4559-9f7d-9ccc36257015.jfif",
+                image: "ec9a4ad9-5874-4559-9f7d-9ccc36257015.jfif",
                 badge: "Sports",
                 description: "ساعة سمارت ووتش 2.015 بوصة من اورايمو، مقاومة للماء HD بلون أسود كروم فاتح"
             },
@@ -312,7 +312,7 @@ function loadProductsFromStorage() {
                 originalPrice: 1600,
                 rating: 4.9,
                 reviews: 203,
-                image: "image/e5ca24e8-fbbb-4cea-92ee-c9e702d88ea9.jfif",
+                image: "e5ca24e8-fbbb-4cea-92ee-c9e702d88ea9.jfif",
                 badge: "Sports",
                 description: "ساعة ذكية بلوتوث 2R للرجال والنساء من اورايمو ساعة لياقة بدنية ذكية 1.39 HD مع عداد خطوات ومراقب معدل ضربات القلب، اكثر من 120 وضع رياضي ورد سريع على الرسائل القصيرة اسود، ضمان لمدة عام"
             },
@@ -324,7 +324,7 @@ function loadProductsFromStorage() {
                 originalPrice: 500,
                 rating: 4.8,
                 reviews: 167,
-                image: "image/T800-Smart-Watch.jpg",
+                image: "T800-Smart-Watch.jpg",
                 badge: "Value",
                 description: "ساعة ذكية T800 الترا ان اف سي بمكالمات بلوتوث وشحن لاسلكي (برتقالي)"
             },
@@ -336,7 +336,7 @@ function loadProductsFromStorage() {
                 originalPrice: 600,
                 rating: 4.6,
                 reviews: 89,
-                image: "image/3fa5965a-00c2-4d0a-8263-642d05627647.jfif",
+                image: "3fa5965a-00c2-4d0a-8263-642d05627647.jfif",
                 badge: "Value",
                 description: "ساعة ذكية 900T الترا ان اف سي بمكالمات بلوتوث وشحن لاسلكي (برتقالي)"
             },
@@ -348,7 +348,7 @@ function loadProductsFromStorage() {
                 originalPrice: 500,
                 rating: 4.7,
                 reviews: 145,
-                image: "image/3f66b873-5e5f-4bf1-8331-56c49e2d326b.jfif",
+                image: "3f66b873-5e5f-4bf1-8331-56c49e2d326b.jfif",
                 badge: "Value",
                 description: "ساعة ذكية 2025 T1000 الترا 2 بتصميم أنيق 2.08 بوصة، ان اف سي شاشة لانهائية لتتبع اللياقة البدنية ومعدل ضربات القلب المكالمات والشحن اللاسلكي لأجهزة IOS وأندرويد للرجال والنساء من ادهوماكس، أزرق غامق"
             },
@@ -360,7 +360,7 @@ function loadProductsFromStorage() {
                 originalPrice: 1200,
                 rating: 4.8,
                 reviews: 112,
-                image: "image/451c9be5-fb36-403c-b51c-1a89c11a68eb.jfif",
+                image: "451c9be5-fb36-403c-b51c-1a89c11a68eb.jfif",
                 badge: "Premium",
                 description: "ساعة ذكية الالمانية ام اكس 10 من اكس - انوفا مع 7 اساور ساعة عصرية وتعمل دائما على مدار اليوم"
             },
@@ -372,7 +372,7 @@ function loadProductsFromStorage() {
                 originalPrice: 950,
                 rating: 4.7,
                 reviews: 98,
-                image: "image/9914df91-928c-41b8-ae93-707b57dee28b.jfif",
+                image: "9914df91-928c-41b8-ae93-707b57dee28b.jfif",
                 badge: "Premium",
                 description: "ساعة M72 ماكس ذكية شاشة عالية الدقة 49 HD ملم، وظيفة متتبع اللياقة البدنية تدعم الشحن اللاسلكي وإجراء المكالمات متوافقة مع iOS وأندرويد للرجال والنساء، ساعتان و 7 أساور بأنماط طباعة متنوعة"
             },
@@ -384,7 +384,7 @@ function loadProductsFromStorage() {
                 originalPrice: 580,
                 rating: 4.9,
                 reviews: 234,
-                image: "image/71EUSF2OEnL._AC_SX522_.jpg",
+                image: "71EUSF2OEnL._AC_SX522_.jpg",
                 badge: "Fast",
                 description: "شاحن Anker 511 USB C (Nano Pro)، شاحن سريع صغير الحجم PIQ 3.0 لأجهزة iPhone 16/16 Plus/16 Pro/16 Pro Max، سلسلة 15/14/13، Galaxy، Pixel 4/3، iPad (الكابل غير متضمن)"
             },
@@ -396,7 +396,7 @@ function loadProductsFromStorage() {
                 originalPrice: 200,
                 rating: 4.6,
                 reviews: 76,
-                image: "image/images.jfif",
+                image: "images.jfif",
                 badge: "Value",
                 description: "شاحن Anker USB C، شاحن سريع 20 وات مع قابس قابل للطي، شاحن PowerPort III مكعب 20 وات لهاتف iPhone 14/14 Plus/14 Pro/14 Pro Max/13، Galaxy، Pixel 4/3، iPad/iPad Mini، كابل الشحن غير متضمن"
             },
@@ -408,7 +408,7 @@ function loadProductsFromStorage() {
                 originalPrice: 260,
                 rating: 4.5,
                 reviews: 67,
-                image: "image/Screenshot 2025-08-25 141838.png",
+                image: "Screenshot 2025-08-25 141838.png",
                 badge: "Premium",
                 description: "10-inch ring light, 3 color temperatures, Adjustable brightness, Phone holder included"
             },
@@ -420,7 +420,7 @@ function loadProductsFromStorage() {
                 originalPrice: 1100,
                 rating: 4.4,
                 reviews: 89,
-                image: "image/51IZ24O2w5L._AC_SX522_.jpg",
+                image: "51IZ24O2w5L._AC_SX522_.jpg",
                 badge: "Fast Charge",
                 description: "شاحن لاسلكي Anker 318 (لوح) (شاحن لاسلكي، معتمد من Qi)، متوافق مع iPhone 14/13، مخرج يصل إلى 10 وات، كابل USB-C وUSB-A متضمن، يدعم مدخل النوع C"
             }

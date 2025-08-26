@@ -60,7 +60,7 @@ function loadProductsFromStorage() {
                 name: "AirPods Pro 2 Plus",
                 category: "accessories",
                 price: 550,
-                originalPrice: 600,
+                originalPrice: 650,
                 rating: 4.8,
                 reviews: 156,
                 image: "5f56dc8d-57c5-4cac-afab-298c238444a1.jpeg",
@@ -1232,5 +1232,6 @@ document.addEventListener('DOMContentLoaded', () => {
     loadProducts();
     setupEventListeners();
 }); 
+
 
 

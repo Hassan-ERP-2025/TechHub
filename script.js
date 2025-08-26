@@ -57,7 +57,7 @@ function loadProductsFromStorage() {
             // Headphones
             {
                 id: 1,
-                name: "AirPods Pro 3 Plus",
+                name: "AirPods Pro 2 Plus",
                 category: "accessories",
                 price: 550,
                 originalPrice: 650,
@@ -69,7 +69,7 @@ function loadProductsFromStorage() {
             },
             {
                 id: 2,
-                name: "AirPods Pro 3 Plus",
+                name: "AirPods Pro 2 Plus",
                 category: "accessories",
                 price: 500,
                 originalPrice: 550,
@@ -1232,3 +1232,4 @@ document.addEventListener('DOMContentLoaded', () => {
     loadProducts();
     setupEventListeners();
 }); 
+

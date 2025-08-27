@@ -127,7 +127,7 @@ function loadProductsFromStorage() {
                 rating: 4.6,
                 reviews: 45,
                 image: "71HLZfVKPxL._UF894,1000_QL80_.jpg",
-                badge: "Business",
+                badge: "Programming",
                 description: "Ryzen 5 Pro 3500U, 16GB RAM DDR4, 256GB SSD, AMD Radeon 2GB Graphics"
             },
             {
@@ -139,7 +139,7 @@ function loadProductsFromStorage() {
                 rating: 4.7,
                 reviews: 38,
                 image: "61L3O0-5-vL._AC_SL1500_.jpg",
-                badge: "Business",
+                badge: "Programming",
                 description: "Ryzen 5 Pro 4650U, 16GB RAM DDR4, 256GB SSD, AMD Radeon 512MB Graphics"
             },
             {
@@ -1232,6 +1232,7 @@ document.addEventListener('DOMContentLoaded', () => {
     loadProducts();
     setupEventListeners();
 }); 
+
 
 
 

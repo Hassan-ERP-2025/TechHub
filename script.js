@@ -178,7 +178,7 @@ function loadProductsFromStorage() {
                 badge: "Value",
                 description: "Intel i3 7th Gen, 16GB RAM DDR4, 128GB SSD, NVIDIA 2GB Graphics"
             },
-{
+            {
                 id: 31,
                 name: "Hp zbook g8 studio",
                 category: "laptops",
@@ -1304,6 +1304,7 @@ document.addEventListener('DOMContentLoaded', () => {
     loadProducts();
     setupEventListeners();
 }); 
+
 
 
 

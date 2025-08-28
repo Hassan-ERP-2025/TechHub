@@ -178,6 +178,78 @@ function loadProductsFromStorage() {
                 badge: "Value",
                 description: "Intel i3 7th Gen, 16GB RAM DDR4, 128GB SSD, NVIDIA 2GB Graphics"
             },
+{
+                id: 31,
+                name: "Hp zbook g8 studio",
+                category: "laptops",
+                price: 30000,
+                originalPrice: 32500,
+                rating: 4.4,
+                reviews: 85,
+                image: "hp-zbook-studio-g8-workstation-preview.jpg",
+                badge: "Engineer",
+                description: "Hp zbook g8 studio CPU: core i7 11Th H Ram: 32 ddr4 Storage: 512 ssd NVME VGA: Nvidia Q T1200 4g "
+            },
+            {
+                id: 32,
+                name: "Hp zbook power g5",
+                category: "laptops",
+                price: 22500,
+                originalPrice: 24000,
+                rating: 4.4,
+                reviews: 75,
+                image: "zbook2biwillz-300x300.jpg",
+                badge: "Workstation",
+                description: "Hp zbook power g5 CPU: i7 8th H Ram 32 ddr4 Storage 512 ssd nvme VGA nvidia 4 g ddr4"
+            },
+            {
+                id: 33,
+                name: "ZBook(fury) g7",
+                category: "laptops",
+                price: 28000,
+                originalPrice: 32000,
+                rating: 4.4,
+                reviews: 80,
+                image: "Zbook-14-g8.png",
+                badge: "Workstation",
+                description: "ZBook(fury) g7 17.Gen 10 Ram 32 Hard 512 NVME Vga T2000 max 4g"
+            },
+            {
+                id: 34,
+                name: "Hp zbook g3",
+                category: "laptops",
+                price: 15000,
+                originalPrice: 15500,
+                rating: 4.4,
+                reviews: 80,
+                image: "Screenshot 2025-08-27 204911.png",
+                badge: "Workstation",
+                description: "Hp zbook g3 CPU :i7-6 HQ VGA : nvidia Quadro 2g Ram : 16g ddr4 Hard :512 ssd NVME Monitor: 15,6 inch full hd Battery : original معاه شاحن اصلي و الشنطه والماوس وايرليس وستاند معدن واستيكر كيبورد"
+            },
+            {
+                id: 35,
+                name: "Hp zbook g3",
+                category: "laptops",
+                price: 21500,
+                originalPrice: 22500,
+                rating: 4.4,
+                reviews: 74,
+                image: "Screenshot 2025-08-28 090537.png",
+                badge: "Workstation",
+                description: "Dell Precision 3541 - i7 9850H - معالج - ⁠ddr4 16G RAM - رامات - ⁠512G SSD - هارد كارت شاشه خارجي nvidia quadro 4g شاشه 15,6 full hd"
+            },
+            {
+                id: 36,
+                name: "Hp zbook g4",
+                category: "laptops",
+                price: 18500,
+                originalPrice: 19000,
+                rating: 4.4,
+                reviews: 60,
+                image: "download.jfif",
+                badge: "Workstation",
+                description: "Hp zbook g4 CPU :i7-7HQ VGA : nvidia Quadro 4g Ram : 16g ddr4 Hard :512 ssd NVME Monitor: 15,6 inch full hd Battery : original"
+            },
             
             // Phones
             {
@@ -1232,6 +1304,7 @@ document.addEventListener('DOMContentLoaded', () => {
     loadProducts();
     setupEventListeners();
 }); 
+
 
 
 

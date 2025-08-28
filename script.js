@@ -228,7 +228,7 @@ function loadProductsFromStorage() {
             },
             {
                 id: 35,
-                name: "Hp zbook g3",
+                name: "Dell Precision 3541",
                 category: "laptops",
                 price: 21500,
                 originalPrice: 22500,
@@ -1304,6 +1304,7 @@ document.addEventListener('DOMContentLoaded', () => {
     loadProducts();
     setupEventListeners();
 }); 
+
 
 
 

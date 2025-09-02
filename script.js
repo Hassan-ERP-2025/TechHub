@@ -206,7 +206,7 @@ function loadProductsFromStorage() {
                 id: 33,
                 name: "ZBook(fury) g7",
                 category: "laptops",
-                price: 28000,
+                price: 28500,
                 originalPrice: 32000,
                 rating: 4.4,
                 reviews: 80,
@@ -1304,6 +1304,7 @@ document.addEventListener('DOMContentLoaded', () => {
     loadProducts();
     setupEventListeners();
 }); 
+
 
 
 

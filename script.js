@@ -375,7 +375,7 @@ function loadProductsFromStorage() {
                 description: "ساعة سمارت ووتش 2.015 بوصة من اورايمو، مقاومة للماء HD بلون أسود كروم فاتح"
             },
             
-            // Tech Accessories
+           
             {
                 id: 21,
                 name: "Oraimo Watch 2R Bluetooth SmartWatch for Men&Women",
@@ -448,6 +448,7 @@ function loadProductsFromStorage() {
                 badge: "Premium",
                 description: "ساعة M72 ماكس ذكية شاشة عالية الدقة 49 HD ملم، وظيفة متتبع اللياقة البدنية تدعم الشحن اللاسلكي وإجراء المكالمات متوافقة مع iOS وأندرويد للرجال والنساء، ساعتان و 7 أساور بأنماط طباعة متنوعة"
             },
+             // Tech Accessories
             {
                 id: 27,
                 name: "Anker 511 USB C Charger Block (Nano Pro)",
@@ -464,8 +465,8 @@ function loadProductsFromStorage() {
                 id: 28,
                 name: "Anker USB C Charger, 20W Fast Charger",
                 category: "tech_accessories",
-                price: 160,
-                originalPrice: 200,
+                price: 500,
+                originalPrice: 550,
                 rating: 4.6,
                 reviews: 76,
                 image: "images.jfif",
@@ -1304,6 +1305,7 @@ document.addEventListener('DOMContentLoaded', () => {
     loadProducts();
     setupEventListeners();
 }); 
+
 
 
 

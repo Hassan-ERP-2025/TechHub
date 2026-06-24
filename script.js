@@ -11,7 +11,7 @@ let socket;
 // Initialize Socket.IO connection
 function initializeSocket() {
     // Connect to the server (adjust URL if needed)
-  socket = io('https://techhubtest.onrender.com');
+  socket = io('https://techhub.onrender.com');
     
     // Listen for product updates from server
     socket.on('productsUpdate', (newProducts) => {

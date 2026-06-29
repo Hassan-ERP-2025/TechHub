@@ -118,7 +118,7 @@ function loadProductsFromStorage() {
 
             
             // Laptops
-            {
+           /* {
                 id: 6,
                 name: "HP EliteBook 745 G6",
                 category: "laptops",
@@ -129,8 +129,8 @@ function loadProductsFromStorage() {
                 image: "71HLZfVKPxL._UF894,1000_QL80_.jpg",
                 badge: "Programming",
                 description: "Ryzen 5 Pro 3500U, 16GB RAM DDR4, 256GB SSD, AMD Radeon 2GB Graphics"
-            },
-            {
+           },*/
+           /* {
                 id: 7,
                 name: "HP EliteBook 845 G7",
                 category: "laptops",
@@ -141,7 +141,7 @@ function loadProductsFromStorage() {
                 image: "61L3O0-5-vL._AC_SL1500_.jpg",
                 badge: "Programming",
                 description: "Ryzen 5 Pro 4650U, 16GB RAM DDR4, 256GB SSD, AMD Radeon 512MB Graphics"
-            },
+            },*/
              {
                  id: 8,
                 name: "Hp zbook g7 studio  ",
@@ -154,7 +154,7 @@ function loadProductsFromStorage() {
                 badge: "Workstation",
                 description: "Hp zbook g7 studio  CPU :i7_th10 H  VGA : T1000_4G  Ram : 32  ddr4 Hard :Ssd 512 "
             },
-            {
+            /*{
                 id: 9,
                 name: "HP ZBook 15 3G",
                 category: "laptops",
@@ -165,7 +165,7 @@ function loadProductsFromStorage() {
                 image: "fd2abf5c-075e-469b-ac0d-c7318bfdbf0e.jpg",
                 badge: "Workstation",
                 description: "Intel i7 6th Gen, 16GB RAM DDR4, 512GB SSD (or 256GB SSD + 500GB HDD), NVIDIA 4GB Graphics"
-            },
+            },*/
             {
                 id: 10,
                 name: "HP Laptop",
@@ -178,7 +178,7 @@ function loadProductsFromStorage() {
                 badge: "Value",
                 description: "Intel i3 7th Gen, 8GB RAM DDR4, 256GB SSD nvme, NVIDIA internal Graphics"
             },
-            {
+            /*{
                 id: 31,
                 name: "Hp zbook g8 studio",
                 category: "laptops",
@@ -189,7 +189,7 @@ function loadProductsFromStorage() {
                 image: "hp-zbook-studio-g8-workstation-preview.jpg",
                 badge: "Engineer",
                 description: "Hp zbook g8 studio CPU: core i7 11Th H Ram: 32 ddr4 Storage: 512 ssd NVME VGA: Nvidia Q T1200 4g "
-            },
+            },*/
             {
                 id: 32,
                 name: "Hp zbook power g5",
@@ -202,7 +202,7 @@ function loadProductsFromStorage() {
                 badge: "Workstation",
                 description: "Hp zbook power g5 CPU: i7 8th H Ram 32 ddr4 Storage 512 ssd nvme VGA nvidia 4 g ddr4"
             },
-            {
+            /*{
                 id: 33,
                 name: "ZBook(fury) g7",
                 category: "laptops",
@@ -213,8 +213,8 @@ function loadProductsFromStorage() {
                 image: "Zbook-14-g8.png",
                 badge: "Workstation",
                 description: "ZBook(fury) g7 17.Gen 10 Ram 32 Hard 512 NVME Vga T2000 max 4g"
-            },
-            {
+            },*/
+            /*{
                 id: 34,
                 name: "Hp zbook g3",
                 category: "laptops",
@@ -225,8 +225,8 @@ function loadProductsFromStorage() {
                 image: "Screenshot 2025-08-27 204911.png",
                 badge: "Workstation",
                 description: "Hp zbook g3 CPU :i7-6 HQ VGA : nvidia Quadro 2g Ram : 16g ddr4 Hard :512 ssd NVME Monitor: 15,6 inch full hd Battery : original معاه شاحن اصلي و الشنطه والماوس وايرليس وستاند معدن واستيكر كيبورد"
-            },
-            {
+            },*/
+            /*{
                 id: 35,
                 name: "Dell Precision 3541",
                 category: "laptops",
@@ -237,8 +237,8 @@ function loadProductsFromStorage() {
                 image: "Screenshot 2025-08-28 090537.png",
                 badge: "Workstation",
                 description: "Dell Precision 3541 - i7 9850H - معالج - ⁠ddr4 16G RAM - رامات - ⁠512G SSD - هارد كارت شاشه خارجي nvidia quadro 4g شاشه 15,6 full hd"
-            },
-            {
+            },*/
+            /*{
                 id: 36,
                 name: "Hp zbook g4",
                 category: "laptops",
@@ -249,7 +249,7 @@ function loadProductsFromStorage() {
                 image: "download.jfif",
                 badge: "Workstation",
                 description: "Hp zbook g4 CPU :i7-7HQ VGA : nvidia Quadro 4g Ram : 16g ddr4 Hard :512 ssd NVME Monitor: 15,6 inch full hd Battery : original"
-            },
+            },*/
             {
                  id: 37,
                 name: "Dell Latitude 7420 ",

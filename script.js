@@ -134,8 +134,8 @@ function loadProductsFromStorage() {
                 id: 7,
                 name: "HP EliteBook 845 G7",
                 category: "laptops",
-                price: 13000,
-                originalPrice: 14000,
+                price: 13600,
+                originalPrice: 14600,
                 rating: 4.7,
                 reviews: 38,
                 image: "61L3O0-5-vL._AC_SL1500_.jpg",
@@ -150,7 +150,7 @@ function loadProductsFromStorage() {
                 originalPrice: 15500,
                 rating: 4.8,
                 reviews: 52,
-                image: "61LJLbpmmSL.jpg",
+                image: "f242d46e-270c-4fc5-b435-8278979ed0aa.jpg",
                 badge: "Workstation",
                 description: "Intel i7 6th Gen, 16GB RAM DDR4, 512GB SSD (or 256GB SSD + 500GB HDD), NVIDIA 2GB Graphics"
             },
@@ -170,13 +170,13 @@ function loadProductsFromStorage() {
                 id: 10,
                 name: "HP Laptop",
                 category: "laptops",
-                price: 8500,
-                originalPrice: 9500,
+                price: 8600,
+                originalPrice: 9600,
                 rating: 4.4,
                 reviews: 67,
                 image: "815CHS7C3ML._UF894,1000_QL80_.jpg",
                 badge: "Value",
-                description: "Intel i3 7th Gen, 16GB RAM DDR4, 128GB SSD, NVIDIA 2GB Graphics"
+                description: "Intel i3 7th Gen, 8GB RAM DDR4, 256GB SSD nvme, NVIDIA internal Graphics"
             },
             {
                 id: 31,
@@ -250,6 +250,164 @@ function loadProductsFromStorage() {
                 badge: "Workstation",
                 description: "Hp zbook g4 CPU :i7-7HQ VGA : nvidia Quadro 4g Ram : 16g ddr4 Hard :512 ssd NVME Monitor: 15,6 inch full hd Battery : original"
             },
+            {
+                 id: 37,
+                name: "Dell Latitude 7420 ",
+                category: "laptops",
+                price: 14600,
+                originalPrice: 15900,
+                rating: 4.4,
+                reviews: 60,
+                image: "8712d67a-49e7-4eae-a104-2e216cbae435.jpg",
+                badge: "Business Laptop",
+                description: "Dell Latitude 7420 CPU :i5_th11 VGA : internal : Ram 8 ddr4 Hard :Ssd 256  NVME"
+            },
+            {
+
+                 id: 38,
+                name: "Dell Latitude 7200 2-in-1",
+                category: "laptops",
+                price: 13500,
+                originalPrice: 14700,
+                rating: 4.4,
+                reviews: 60,
+                image: "930bf3b6-2765-4cce-9fd9-61bcc49d1a51.jpg",
+                badge: "Business Laptop",
+                description: "Dell Latitude 7200 2-in-1 CPU :i5_th8 VGA : internal  : Ram 8 Hard :Ssd 256 NVME Monitor: Display Size: 12.3-inch Touch Support: 10-Point Multi-Touch"
+            },
+            {
+                 id: 39,
+                name: "Hp elitebook 850 G4",
+                category: "laptops",
+                price: 11500,
+                originalPrice: 12800,
+                rating: 4.5,
+                reviews: 90,
+                image: "9dadd725-6ddc-4f4a-acaa-e17c2cc40356.jpg",
+                badge: "Business Laptop",
+                description: "Hp elitebook 850 G4 CPU :i7_th7 VGA : Internal Ram : 8  ddr4 Hard :Ssd 256"
+            },
+            {
+                 id: 40,
+                name: "Dell precision 7530 ",
+                category: "laptops",
+                price: 21700,
+                originalPrice: 22600,
+                rating: 4.5,
+                reviews: 70,
+                image: "8cbe89e3-6b59-4c1f-895d-d4938aa65e78.jpg",
+                badge: "Workstation",
+                description: "Dell precision 7530  CPU :i7_th8 H VGA : P1000_4G Ram : 16   ddr4 Hard :Ssd 512 "
+            },
+             {
+                 id: 41,
+                name: "Dell latitude 5511 ",
+                category: "laptops",
+                price: 16700,
+                originalPrice: 17000,
+                rating: 5.5,
+                reviews: 70,
+                image: "cb5e6db1-07dc-4bc0-bd50-9719e97cae72.jpg",
+                badge: "Business Laptop(Premium)",
+                description: "Dell latitude 5511  CPU :i5_th10 H VGA : Mx250 _ 2G  Ram : 8   ddr4 Hard :Ssd 256 "
+            },
+            {
+                 id: 42,
+                name: "Hp elitebook 840 G7  ",
+                category: "laptops",
+                price: 13700,
+                originalPrice: 14000,
+                rating: 5.5,
+                reviews: 70,
+                image: "09bf33ab-90e1-4697-af77-e2f384a3976d.jpg",
+                badge: "Business Laptop(Premium)",
+                description: "Hp elitebook 840 G7  CPU :i5_th10  VGA : Internal  Ram : 8   ddr4 Hard :Ssd 256 "
+            },
+              {
+                 id: 43,
+                name: "Dell precision 3541   ",
+                category: "laptops",
+                price: 14200,
+                originalPrice: 14900,
+                rating: 5.5,
+                reviews: 70,
+                image: "9c78b588-c042-423c-9e3a-8c5a72fc2e66.jpg",
+                badge: "Workstation",
+                description: "Dell precision 3541  CPU :i7_th9 H  VGA : Internal  Ram : 8   ddr4 Hard :Ssd 256 "
+            },
+            {
+                 id: 44,
+                name: "Dell precision 5530   ",
+                category: "laptops",
+                price: 21100,
+                originalPrice: 21500,
+                rating: 5.5,
+                reviews: 70,
+                image: "55d3bde0-70df-4f45-a950-2d1f4f7a4323.jpg",
+                badge: "Workstation",
+                description: "Dell precision 5530  CPU :i7_th8 H  VGA : P1000_4G  Ram : 16   ddr4 Hard :Ssd 256 "
+            },
+             {
+                 id: 45,
+                name: "Hp Elite 2*1  ",
+                category: "laptops",
+                price: 13700,
+                originalPrice: 14000,
+                rating: 5.5,
+                reviews: 70,
+                image: "168362c6-0527-4eb3-b56f-0ac428411899.jpg",
+                badge: "Business Laptop",
+                description: "Hp Elite 2*1  CPU :i5_th8  VGA : Internal  Ram : 8   ddr4 Hard :Ssd 256 "
+            },
+            {
+                 id: 46,
+                name: "Hp Zbook g5 studio  ",
+                category: "laptops",
+                price: 27600,
+                originalPrice: 28000,
+                rating: 5.5,
+                reviews: 70,
+                image: "0772b595-45b0-4610-b4bc-2d0a689e510b.jpg",
+                badge: "Workstation",
+                description: "Hp Zbook g5 studio  CPU :i9_th9 H  VGA : P2000_4G  Ram : 16   ddr4 Hard :Ssd 512 "
+            },
+             {
+                 id: 47,
+                name: "Hp Zbook g5  ",
+                category: "laptops",
+                price: 21600,
+                originalPrice: 22000,
+                rating: 5.5,
+                reviews: 70,
+                image: "d7342e86-5cd8-4995-9118-ade614acf510.jpg",
+                badge: "Workstation",
+                description: "Hp Zbook g5  CPU :i7_th8 H  VGA : P1000_4G  Ram : 16   ddr4 Hard :Ssd 512 "
+            },
+            {
+                 id: 48,
+                name: "Dell precision 7550  ",
+                category: "laptops",
+                price: 28000,
+                originalPrice: 28500,
+                rating: 5.5,
+                reviews: 70,
+                image: "0af465da-21b5-41cf-b772-6491cc71234f.jpg",
+                badge: "Workstation",
+                description: "Dell precision 7550  CPU :i7_th10 H  VGA : T1200_4G  Ram : 16   ddr4 Hard :Ssd 512 "
+            },
+            {
+                 id: 49,
+                name: "Hp zbook g7 studio  ",
+                category: "laptops",
+                price: 29600,
+                originalPrice: 30200,
+                rating: 5.5,
+                reviews: 70,
+                image: "de10668e-03e6-497a-bd1f-6e6f76b4bd71.jpg",
+                badge: "Workstation",
+                description: "Hp zbook g7 studio  CPU :i7_th10 H  VGA : T1000_4G  Ram : 32   ddr4 Hard :Ssd 512 "
+            },
+            
             
             // Phones
             {
@@ -264,6 +422,7 @@ function loadProductsFromStorage() {
                 badge: "Premium",
                 description: "سماعة لاسلكية ساوندكور R50i صوت ستيريو حقيقي ومشغلات 10 ملم وصوت باس من انكر بلوتوث 5.3 مدة تشغيل 30 ساعة ذكاء اصطناعي لوضوح مكالمات مع ميكروفونين معادل مسبق الضبط 22 أسود ار 50 اي داخل الأذن"
             },
+            
             {
                 id: 12,
                 name: "Air31 Wireless Earbuds with LED Display",

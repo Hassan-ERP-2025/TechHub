@@ -142,17 +142,17 @@ function loadProductsFromStorage() {
                 badge: "Programming",
                 description: "Ryzen 5 Pro 4650U, 16GB RAM DDR4, 256GB SSD, AMD Radeon 512MB Graphics"
             },
-            {
-                id: 8,
-                name: "HP ZBook 15 3G",
+             {
+                 id: 8,
+                name: "Hp zbook g7 studio  ",
                 category: "laptops",
-                price: 14500,
-                originalPrice: 15500,
-                rating: 4.8,
-                reviews: 52,
-                image: "f242d46e-270c-4fc5-b435-8278979ed0aa.jpg",
+                price: 29600,
+                originalPrice: 30200,
+                rating: 5.5,
+                reviews: 70,
+                image: "de10668e-03e6-497a-bd1f-6e6f76b4bd71.jpg",
                 badge: "Workstation",
-                description: "Intel i7 6th Gen, 16GB RAM DDR4, 512GB SSD (or 256GB SSD + 500GB HDD), NVIDIA 2GB Graphics"
+                description: "Hp zbook g7 studio  CPU :i7_th10 H  VGA : T1000_4G  Ram : 32   ddr4 Hard :Ssd 512 "
             },
             {
                 id: 9,
@@ -395,18 +395,7 @@ function loadProductsFromStorage() {
                 badge: "Workstation",
                 description: "Dell precision 7550  CPU :i7_th10 H  VGA : T1200_4G  Ram : 16   ddr4 Hard :Ssd 512 "
             },
-            {
-                 id: 49,
-                name: "Hp zbook g7 studio  ",
-                category: "laptops",
-                price: 29600,
-                originalPrice: 30200,
-                rating: 5.5,
-                reviews: 70,
-                image: "de10668e-03e6-497a-bd1f-6e6f76b4bd71.jpg",
-                badge: "Workstation",
-                description: "Hp zbook g7 studio  CPU :i7_th10 H  VGA : T1000_4G  Ram : 32   ddr4 Hard :Ssd 512 "
-            },
+        
             
             
             // Phones

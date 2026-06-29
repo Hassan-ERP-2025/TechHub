@@ -285,7 +285,7 @@ function loadProductsFromStorage() {
                 reviews: 90,
                 image: "9dadd725-6ddc-4f4a-acaa-e17c2cc40356.jpg",
                 badge: "Business Laptop",
-                description: "Hp elitebook 850 G4 CPU :i7_th7 VGA : Internal Ram : 8  ddr4 Hard :Ssd 256"
+                description: "Hp elitebook 850 G4 CPU :i7_th7 VGA : Internal Ram : 8 ddr4 Hard :Ssd 256"
             },
             {
                  id: 40,

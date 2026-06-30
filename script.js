@@ -152,7 +152,7 @@ function loadProductsFromStorage() {
                 reviews: 70,
                 image: "de10668e-03e6-497a-bd1f-6e6f76b4bd71.jpg",
                 badge: "Workstation",
-                description: "Hp zbook g7 studio  CPU :i7_th10 H  VGA : T1000_4G  Ram : 32  ddr4 Hard :Ssd 512 "
+                description: "Hp zbook g7 studio \n CPU :i7_th10 H \n VGA : T1000_4G \n Ram : 32  ddr4 \n Hard :Ssd 512 "
             },
             /*{
                 id: 9,
@@ -176,7 +176,7 @@ function loadProductsFromStorage() {
                 reviews: 67,
                 image: "815CHS7C3ML._UF894,1000_QL80_.jpg",
                 badge: "Value",
-                description: "Intel i3 7th Gen, 8GB RAM DDR4, 256GB SSD nvme, NVIDIA internal Graphics"
+                description: "Intel i3 7thGen,\n 8GB RAM DDR4,\n 256GB SSD nvme, \n NVIDIA internal Graphics"
             },
             /*{
                 id: 31,
@@ -200,7 +200,7 @@ function loadProductsFromStorage() {
                 reviews: 75,
                 image: "zbook2biwillz-300x300.jpg",
                 badge: "Workstation",
-                description: "Hp zbook power g5 CPU: i7 8th H Ram 32 ddr4 Storage 512 ssd nvme VGA nvidia 4 g ddr4"
+                description: "Hp zbook power g5 \n CPU: i7 8th H \n Ram 32 ddr4 \n Storage 512 ssd nvme \n VGA nvidia 4 g ddr4"
             },
             /*{
                 id: 33,
@@ -260,7 +260,7 @@ function loadProductsFromStorage() {
                 reviews: 60,
                 image: "8712d67a-49e7-4eae-a104-2e216cbae435.jpg",
                 badge: "Business Laptop",
-                description: "Dell Latitude 7420 CPU :i5_th11 VGA : internal : Ram 8 ddr4 Hard :Ssd 256  NVME"
+                description: "Dell Latitude 7420 \n CPU :i5_th11 \n VGA : internal \n Ram 8 ddr4 \n Hard :Ssd 256  NVME"
             },
             {
 
@@ -273,7 +273,7 @@ function loadProductsFromStorage() {
                 reviews: 60,
                 image: "930bf3b6-2765-4cce-9fd9-61bcc49d1a51.jpg",
                 badge: "Business Laptop",
-                description: "Dell Latitude 7200 2-in-1 CPU :i5_th8 VGA : internal  : Ram 8 Hard :Ssd 256 NVME Monitor: Display Size: 12.3-inch Touch Support: 10-Point Multi-Touch"
+                description: "Dell Latitude 7200 2-in-1 \n CPU :i5_th8 \n VGA : internal  : Ram 8 \n Hard :Ssd 256 NVME \n Monitor: Display Size: 12.3-inch Touch Support: 10-Point Multi-Touch"
             },
             {
                  id: 39,
@@ -285,7 +285,7 @@ function loadProductsFromStorage() {
                 reviews: 90,
                 image: "9dadd725-6ddc-4f4a-acaa-e17c2cc40356.jpg",
                 badge: "Business Laptop",
-                description: "Hp elitebook 850 G4 CPU :i7_th7 VGA : Internal Ram : 8 ddr4 Hard :Ssd 256"
+                description: "Hp elitebook 850 G4 \n CPU :i7_th7 \n VGA : Internal \n Ram : 8 ddr4 \n Hard :Ssd 256"
             },
             {
                  id: 40,
@@ -297,7 +297,7 @@ function loadProductsFromStorage() {
                 reviews: 70,
                 image: "8cbe89e3-6b59-4c1f-895d-d4938aa65e78.jpg",
                 badge: "Workstation",
-                description: "Dell precision 7530  CPU :i7_th8 H VGA : P1000_4G Ram : 16   ddr4 Hard :Ssd 512 "
+                description: "Dell precision 7530 \n CPU :i7_th8 H \n VGA : P1000_4G \n Ram : 16 ddr4 \n Hard :Ssd 512 "
             },
              {
                  id: 41,
@@ -309,7 +309,7 @@ function loadProductsFromStorage() {
                 reviews: 70,
                 image: "cb5e6db1-07dc-4bc0-bd50-9719e97cae72.jpg",
                 badge: "Business Laptop(Premium)",
-                description: "Dell latitude 5511  CPU :i5_th10 H VGA : Mx250 _ 2G  Ram : 8   ddr4 Hard :Ssd 256 "
+                description: "Dell latitude 5511 \n CPU :i5_th10 H \n VGA : Mx250 _ 2G \n Ram : 8 ddr4 \n Hard :Ssd 256 "
             },
             {
                  id: 42,
@@ -321,7 +321,7 @@ function loadProductsFromStorage() {
                 reviews: 70,
                 image: "09bf33ab-90e1-4697-af77-e2f384a3976d.jpg",
                 badge: "Business Laptop(Premium)",
-                description: "Hp elitebook 840 G7  CPU :i5_th10  VGA : Internal  Ram : 8   ddr4 Hard :Ssd 256 "
+                description: "Hp elitebook 840 G7 \n CPU :i5_th10 \n VGA : Internal \n Ram : 8 ddr4 \n Hard :Ssd 256 "
             },
               {
                  id: 43,
@@ -333,7 +333,7 @@ function loadProductsFromStorage() {
                 reviews: 70,
                 image: "9c78b588-c042-423c-9e3a-8c5a72fc2e66.jpg",
                 badge: "Workstation",
-                description: "Dell precision 3541  CPU :i7_th9 H  VGA : Internal  Ram : 8   ddr4 Hard :Ssd 256 "
+                description: "Dell precision 3541  \n CPU :i7_th9 H  \n VGA : Internal  \n Ram : 8 ddr4 \n Hard :Ssd 256 "
             },
             {
                  id: 44,
@@ -345,7 +345,7 @@ function loadProductsFromStorage() {
                 reviews: 70,
                 image: "55d3bde0-70df-4f45-a950-2d1f4f7a4323.jpg",
                 badge: "Workstation",
-                description: "Dell precision 5530  CPU :i7_th8 H  VGA : P1000_4G  Ram : 16   ddr4 Hard :Ssd 256 "
+                description: "Dell precision 5530  \n CPU :i7_th8 H  \n VGA : P1000_4G  \n Ram : 16 ddr4 \n Hard :Ssd 256 "
             },
              {
                  id: 45,
@@ -357,7 +357,7 @@ function loadProductsFromStorage() {
                 reviews: 70,
                 image: "168362c6-0527-4eb3-b56f-0ac428411899.jpg",
                 badge: "Business Laptop",
-                description: "Hp Elite 2*1  CPU :i5_th8  VGA : Internal  Ram : 8   ddr4 Hard :Ssd 256 "
+                description: "Hp Elite 2*1 \n CPU :i5_th8  \n VGA : Internal  \n Ram : 8 ddr4 \n Hard :Ssd 256 "
             },
             {
                  id: 46,
@@ -369,7 +369,7 @@ function loadProductsFromStorage() {
                 reviews: 70,
                 image: "0772b595-45b0-4610-b4bc-2d0a689e510b.jpg",
                 badge: "Workstation",
-                description: "Hp Zbook g5 studio  CPU :i9_th9 H  VGA : P2000_4G  Ram : 16   ddr4 Hard :Ssd 512 "
+                description: "Hp Zbook g5 studio  \n CPU :i9_th9 H  \n VGA : P2000_4G  \n Ram : 16 ddr4 \n Hard :Ssd 512 "
             },
              {
                  id: 47,
@@ -381,7 +381,7 @@ function loadProductsFromStorage() {
                 reviews: 70,
                 image: "d7342e86-5cd8-4995-9118-ade614acf510.jpg",
                 badge: "Workstation",
-                description: "Hp Zbook g5  CPU :i7_th8 H  VGA : P1000_4G  Ram : 16   ddr4 Hard :Ssd 512 "
+                description: "Hp Zbook g5 \n CPU :i7_th8 H \n VGA : P1000_4G  \n Ram : 16 ddr4 \n Hard :Ssd 512 "
             },
             {
                  id: 48,
@@ -393,7 +393,7 @@ function loadProductsFromStorage() {
                 reviews: 70,
                 image: "0af465da-21b5-41cf-b772-6491cc71234f.jpg",
                 badge: "Workstation",
-                description: "Dell precision 7550  CPU :i7_th10 H  VGA : T1200_4G  Ram : 16   ddr4 Hard :Ssd 512 "
+                description: "Dell precision 7550  \n CPU :i7_th10 H  \n VGA : T1200_4G  Ram : 16 ddr4 \n Hard :Ssd 512 "
             },
         
             

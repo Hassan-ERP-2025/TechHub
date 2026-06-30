@@ -152,7 +152,7 @@ function loadProductsFromStorage() {
                 reviews: 70,
                 image: "de10668e-03e6-497a-bd1f-6e6f76b4bd71.jpg",
                 badge: "Workstation",
-                description: "Hp zbook g7 studio \n CPU :i7_th10 H \n VGA : T1000_4G \n Ram : 32  ddr4 \n Hard :Ssd 512 "
+                description: "Hp zbook g7 studio <br> CPU :i7_th10 H <br> VGA : T1000_4G <br> Ram : 32  ddr4 <br> Hard :Ssd 512 "
             },
             /*{
                 id: 9,
